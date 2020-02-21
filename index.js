@@ -1,1 +1,1 @@
-const divide = (d, n) => n / d;
+const divide = (n) => n / 100;
